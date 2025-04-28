@@ -611,7 +611,7 @@
     <control contextfullscreen="1" invertwheel="0" rubberband="0" contextprojections="0" lockedkeyboardzoom="0" hideabout="1" speedwheel="1" contextvr="1" invertcontrol="1" dblclickfullscreen="0" lockedwheel="0" lockedmouse="0" sensitivity="8" zoomcentercursor="1" lockedkeyboard="0" simulatemass="1"/>
   </panorama>
   <masternode>
-    <userdata description="118㎡A" author="" tags="" title="oooooo 아파트" copyright="" comment=""/>
+    <userdata description="118㎡A" author="" tags="" title="000000 아파트" copyright="" comment=""/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
